@@ -1,8 +1,9 @@
 function fuzz(){
   alert('e');
   var sss ;
-
-  sss.toString();
+  sss = "git test";
   
+  alert(sss);
+
 
 }
