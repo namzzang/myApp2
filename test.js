@@ -6,4 +6,6 @@ function fuzz(){
   alert(sss);
 
   var eee;
+  var undotest;
+  
 }
