@@ -5,7 +5,7 @@ function fuzz(){
 
   alert(sss);
 
-  var eee;
+  var eeexxx;
   var undotest;
   var resettest;
 
