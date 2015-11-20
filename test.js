@@ -9,4 +9,5 @@ function fuzz(){
   var undotest;
   var resettest;
 
+  var testingBranch;
 }
