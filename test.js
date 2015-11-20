@@ -10,5 +10,8 @@ function fuzz(){
   var undotest;
   var resettest;
 
-  var testingBranch;
+  var testingBranch2;
+
+  var testing2;
+
 }
